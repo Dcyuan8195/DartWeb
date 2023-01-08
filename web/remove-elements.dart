@@ -17,3 +17,4 @@ void addToDoItem(Event e) {
   toDoInput.value = '';
   toDoList.children.add(newToDo);
 }
+

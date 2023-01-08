@@ -101,3 +101,4 @@ void _showJson([Event? _]) {
   listAsJson.text = json.encode(favoriteThings);
   mapAsJson.text = json.encode(formData);
 }
+
